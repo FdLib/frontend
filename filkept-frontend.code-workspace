@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../filkept-backend"
+		}
+	],
+	"settings": {
+		"workbench.editor.wrapTabs": true
+	}
+}
